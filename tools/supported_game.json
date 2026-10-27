@@ -1,0 +1,16 @@
+{
+  "version": "1.6.0",
+  "original_game_sha256": "8428ff57c83ed227be67b7a90caa8483b5983e6cca4a896471f60e9a5d497448",
+  "adapted_game_sha256": "98c9d9cd885b602ae2c75eb42776143ffa0a74fd115f4cc94e044da81af7e467",
+  "required_files": {
+    "Braid.bin.x86": "8428ff57c83ed227be67b7a90caa8483b5983e6cca4a896471f60e9a5d497448",
+    "data/package.braid": "d6f3fbd6e268c9cdcc8c6879ef48acc3d1d0b709520e45f979eb5c9e3ca68c71",
+    "data/package0.braid": "b63470bc9edd2a7912233af02b00c683ddec8eb9bf8115846d2a5a81f0b198b6",
+    "lib/libCg.so": "5f6362526260cb18f8713a86b3e1323375c12a987c5c8749ee69af1d44029b38",
+    "lib/libCgGL.so": "551353e605d3664bb93c230de58e6eaa844016ea77d5299630d0c95a630312a5"
+  },
+  "runtime_outputs": {
+    "libstdc++.so.6": "be5d3db817293d7a067e455a9cec2fd8870914ece941e484e6f297a1da7273ce",
+    "libgcc_s.so.1": "00af063b325c3e17bd4edec7ed90eea934faacd39c7f768a56a3706c7fea0bc4"
+  }
+}
